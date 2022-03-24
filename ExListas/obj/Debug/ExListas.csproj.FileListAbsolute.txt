@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ExListas\ExListas\bin\Debug\ExListas.exe.config
+C:\Users\user\source\repos\ExListas\ExListas\bin\Debug\ExListas.exe
+C:\Users\user\source\repos\ExListas\ExListas\bin\Debug\ExListas.pdb
+C:\Users\user\source\repos\ExListas\ExListas\obj\Debug\ExListas.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExListas\ExListas\obj\Debug\ExListas.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExListas\ExListas\obj\Debug\ExListas.exe
+C:\Users\user\source\repos\ExListas\ExListas\obj\Debug\ExListas.pdb
